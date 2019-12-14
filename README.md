@@ -26,11 +26,11 @@ Online Grocery System is a java web application developed using model-view-contr
 - View - HTML,JSP pages are view 
 - Controller - Servlets are controllers
 
-**Features of Online Grocery System **
+**Features of Online Grocery System**
 
 1. Customer can see the grocery items by category - customer can see the list of all category
 2. Customer registration - Any customer can register on website using the registration form
-3. Customer login - This is the login login form from where customer can login into the system
+3. Customer login - This is the login form from where customer can login into the system
 4. Add grocery to cart - This is the form where customer customer will add grocery to cart
 5. Customer can do payment - This is the customer payment form of the Grocery items where customer will be able to make payment
 6. Customer order confirmation - This is the customer order confirmation form where customer will be able to confirm his order item
